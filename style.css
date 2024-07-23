@@ -1,0 +1,13 @@
+#navbar{
+    border: 10px black;
+    text-align: center;
+    color: black;
+}
+#calc{
+    text-align: center;
+}
+
+#result{
+   
+    font-size: 4.5em;
+}
